@@ -1,0 +1,90 @@
+
+begai.png
+size: 523,455
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 339, 304
+  size: 177, 149
+  orig: 177, 149
+  offset: 0, 0
+  index: -1
+ball
+  rotate: true
+  xy: 240, 184
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+bbc-guy-final-cut_68
+  rotate: false
+  xy: 495, 242
+  size: 26, 60
+  orig: 27, 60
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 122
+  size: 126, 236
+  orig: 126, 238
+  offset: 0, 2
+  index: -1
+lbigarm
+  rotate: true
+  xy: 2, 3
+  size: 63, 115
+  orig: 63, 115
+  offset: 0, 0
+  index: -1
+lforearm
+  rotate: false
+  xy: 240, 77
+  size: 70, 105
+  orig: 70, 105
+  offset: 0, 0
+  index: -1
+lham
+  rotate: true
+  xy: 2, 346
+  size: 107, 335
+  orig: 107, 339
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 316, 153
+  size: 177, 149
+  orig: 177, 149
+  offset: 0, 0
+  index: -1
+rbigarm
+  rotate: true
+  xy: 2, 68
+  size: 52, 126
+  orig: 52, 127
+  offset: 0, 1
+  index: -1
+rforearm
+  rotate: true
+  xy: 130, 55
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+rham
+  rotate: true
+  xy: 2, 250
+  size: 94, 312
+  orig: 94, 313
+  offset: 0, 1
+  index: -1
+unhappy
+  rotate: false
+  xy: 312, 2
+  size: 177, 149
+  orig: 178, 149
+  offset: 0, 0
+  index: -1

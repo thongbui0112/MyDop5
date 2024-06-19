@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f9fad869129114098b707283605eb3, type: 3}
+  m_Name: Level25
+  m_EditorClassIdentifier: 
+  request: 
+  numberOfItem: 20
+  nameItem:
+  - eyes1-bird (1)
+  - em1-bird_0
+  - WinErase
+  - eyes1-bird
+  - em2-bird
+  - ERASE-leaves
+  - nest_1
+  - bird
+  - back_61
+  - wing_4
+  - bat
+  - eyes1-bat
+  - em1-bat
+  - woodpecker
+  - eyes1-woodpecker
+  - em1-woodpecker
+  - CheckPoint
+  - CheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  state: 0101010000010101010101010101010101010101
+  eraseable: 0000010000010000000000000000000000000000
+  sprite:
+  - {fileID: 21300000, guid: 5d491a98cbac241459bb8bd3b651d0f5, type: 3}
+  - {fileID: 21300000, guid: b7fe7036568415a46a15d87aaad202dd, type: 3}
+  - {fileID: 21300000, guid: 490c679e82e3e794ca8ab98ee1368c9c, type: 3}
+  - {fileID: 21300000, guid: 5d491a98cbac241459bb8bd3b651d0f5, type: 3}
+  - {fileID: 21300000, guid: a74572dc38fb7a6418403bd49b2a59f4, type: 3}
+  - {fileID: 21300000, guid: a1166fe2b0f3f52428e272474bbca943, type: 3}
+  - {fileID: 21300000, guid: 364c830043389664bad16b0b545706bc, type: 3}
+  - {fileID: 21300000, guid: c0353680966480e4384ec7a023c72cf3, type: 3}
+  - {fileID: 21300000, guid: 09dfc7134d0e81143bde83a7ec85630c, type: 3}
+  - {fileID: 21300000, guid: b362ee485fa84a341bd44d1b1dec68ec, type: 3}
+  - {fileID: 21300000, guid: f6f9faf9ae38ca041b97a6f59007c3ae, type: 3}
+  - {fileID: 21300000, guid: 5308ee6e858363546a3598fdd0912d5c, type: 3}
+  - {fileID: 21300000, guid: e96792a8d6190c04f98fd4b4d840eb8d, type: 3}
+  - {fileID: 21300000, guid: 9a672cb562ad2e04e8a00cb5eb37e043, type: 3}
+  - {fileID: 21300000, guid: b7da0b3831b6d9f4ab2f10aa37d4ac52, type: 3}
+  - {fileID: 21300000, guid: 00d02a73be1706d4f97935de48972484, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  sortingOrder: 02000000030000000a0000000200000002000000050000000400000001000000000000000300000001000000020000000200000001000000020000000200000000000000000000000000000000000000
+  pos:
+  - {x: 1.21, y: 2.483}
+  - {x: 1.13, y: 2.51}
+  - {x: -2.9586473, y: 3.06}
+  - {x: 1.1, y: 2.65}
+  - {x: 1.2022967, y: 2.3670433}
+  - {x: 0.93, y: -3.8}
+  - {x: 0.44639635, y: -1.02}
+  - {x: 0.41, y: 1.21}
+  - {x: 0, y: 0}
+  - {x: -0.16, y: 0.1}
+  - {x: 0.58, y: -3.9}
+  - {x: 0.8278396, y: -4.1415877}
+  - {x: 0.80227417, y: -4.0648913}
+  - {x: -2.92, y: 2.82}
+  - {x: -2.79, y: 4.42}
+  - {x: -2.839624, y: 4.532975}
+  - {x: -3.096, y: 4.117}
+  - {x: -3.1, y: 1.15}
+  - {x: 0.904, y: -2.883}
+  - {x: 0.904, y: -4.633}
+  rot:
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  scale:
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}

@@ -1,0 +1,55 @@
+
+masterchefkhung.png
+size: 237,998
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+master-chef-final-01_03
+  rotate: false
+  xy: 149, 83
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+master-chef-final-01_08
+  rotate: true
+  xy: 2, 2
+  size: 73, 123
+  orig: 73, 123
+  offset: 0, 0
+  index: -1
+master-chef-final-01_12
+  rotate: false
+  xy: 2, 257
+  size: 233, 368
+  orig: 238, 373
+  offset: 0, 5
+  index: -1
+master-chef-final-01_19
+  rotate: false
+  xy: 127, 5
+  size: 102, 70
+  orig: 102, 70
+  offset: 0, 0
+  index: -1
+master-chef-final-01_31
+  rotate: false
+  xy: 2, 627
+  size: 233, 369
+  orig: 236, 369
+  offset: 0, 0
+  index: -1
+master-chef-final-01_34
+  rotate: false
+  xy: 149, 142
+  size: 60, 113
+  orig: 60, 113
+  offset: 0, 0
+  index: -1
+master-chef-final-01_37
+  rotate: false
+  xy: 2, 77
+  size: 145, 178
+  orig: 145, 178
+  offset: 0, 0
+  index: -1

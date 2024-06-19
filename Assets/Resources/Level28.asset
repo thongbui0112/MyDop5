@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f9fad869129114098b707283605eb3, type: 3}
+  m_Name: Level28
+  m_EditorClassIdentifier: 
+  request: 
+  numberOfItem: 13
+  nameItem:
+  - WinErase
+  - back_281
+  - WIN_ERASE (1)
+  - WIN_ERASE (2)
+  - CheckPoint
+  - CheckPoint
+  - CheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  state: 01010101010101010101010101
+  eraseable: 01000101000000000000000000
+  sprite:
+  - {fileID: 21300000, guid: 6e9fa267832b2ab4e8bb2e95f81e2e94, type: 3}
+  - {fileID: 21300000, guid: 5466dfd2498a15d40ad6c1e2f9a0e9bd, type: 3}
+  - {fileID: 21300000, guid: 6e9fa267832b2ab4e8bb2e95f81e2e94, type: 3}
+  - {fileID: 21300000, guid: 6e9fa267832b2ab4e8bb2e95f81e2e94, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  sortingOrder: 02000000000000000200000002000000000000000000000000000000000000000000000000000000000000000000000000000000
+  pos:
+  - {x: 0, y: -1.74}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0.58}
+  - {x: 0, y: -4.1}
+  - {x: -2.41, y: -1.7}
+  - {x: 0, y: -1.75}
+  - {x: 2.25, y: -1.75}
+  - {x: 2.36, y: 0.61}
+  - {x: 2.25, y: -4.25}
+  - {x: 0, y: -4}
+  - {x: -2.38, y: -4.13}
+  - {x: -2.38, y: 0.6199999}
+  - {x: -0.01, y: 0.53}
+  rot:
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  scale:
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}

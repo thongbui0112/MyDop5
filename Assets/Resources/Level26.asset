@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f9fad869129114098b707283605eb3, type: 3}
+  m_Name: Level26
+  m_EditorClassIdentifier: 
+  request: 
+  numberOfItem: 10
+  nameItem:
+  - WinErase
+  - glasses_1
+  - hat
+  - duck_1
+  - eyes1-duck
+  - wing_0
+  - back_130
+  - CheckPoint
+  - CheckPoint
+  - CheckPoint
+  state: 01000001010101010101
+  eraseable: 01000000000000000000
+  sprite:
+  - {fileID: 21300000, guid: 752761f1249a46f4b979f9060e0dafbc, type: 3}
+  - {fileID: 21300000, guid: 8e3678cb3c33f59408b29d5372ea8433, type: 3}
+  - {fileID: 21300000, guid: d6740096c1b8ca846a477ee4cc8ddbef, type: 3}
+  - {fileID: 21300000, guid: b46e69ce8e8095145ac21da116c9fda3, type: 3}
+  - {fileID: 21300000, guid: 5f36985da97f0eb4980d2e48fc4a2c77, type: 3}
+  - {fileID: 21300000, guid: fbadbce54b354f74f851ee091891888c, type: 3}
+  - {fileID: 21300000, guid: 823e907dc85e36844bdc48f1dc2a4f9d, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  sortingOrder: 06000000040000000500000001000000020000000200000000000000000000000000000000000000
+  pos:
+  - {x: 0.3225416, y: -1.9871762}
+  - {x: -0.89, y: 1.527}
+  - {x: -0.453, y: 1.977}
+  - {x: 0, y: -0.84}
+  - {x: -1.04, y: 1.47}
+  - {x: 0.89, y: -0.92}
+  - {x: 0, y: 0}
+  - {x: 2.75, y: -2.5}
+  - {x: -2.95, y: -2.01}
+  - {x: -0.25, y: -2.75}
+  rot:
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  scale:
+  - {x: 1, y: 1, z: 1}
+  - {x: 1.1237, y: 1.1237, z: 1.1237}
+  - {x: 0.2970253, y: 0.2970253, z: 0.2970253}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1.601, y: 1.601, z: 1.601}
+  - {x: 2.0958467, y: 2.0958467, z: 2.0958467}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}

@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f9fad869129114098b707283605eb3, type: 3}
+  m_Name: Level18
+  m_EditorClassIdentifier: 
+  request: Juggle
+  numberOfItem: 21
+  nameItem:
+  - WinErase
+  - EMO-BASE
+  - eyes-women
+  - Erase
+  - eyes-women (1)
+  - Body_16
+  - Hands_12
+  - ERASE_22
+  - BallBlue
+  - BallGreen
+  - BallRed
+  - CheckPoint
+  - CheckPoint
+  - CheckPoint
+  - CheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  state: 010101000001010101010101010101010101010101
+  eraseable: 010000000000000101010100000000000000000000
+  sprite:
+  - {fileID: 21300000, guid: f0dde5ce981d7da43a4e5046f9135dab, type: 3}
+  - {fileID: 21300000, guid: 42c7e7286e9e86a479bd400acedce48c, type: 3}
+  - {fileID: 21300000, guid: a32057a5f3bdb4d40b04ce46560e1da0, type: 3}
+  - {fileID: 21300000, guid: 4c663ec1ceb39cb4e9738372a2c245d6, type: 3}
+  - {fileID: 21300000, guid: a32057a5f3bdb4d40b04ce46560e1da0, type: 3}
+  - {fileID: 21300000, guid: 6ea67e89413608a4c9d8c62947f51277, type: 3}
+  - {fileID: 21300000, guid: 2e173124e801bf24f9e2aa3e47bd6f4a, type: 3}
+  - {fileID: 21300000, guid: cfbeb9c9f569bc441b1f412226706faf, type: 3}
+  - {fileID: 21300000, guid: 213dc88a67bc9f149a71805b03b7e56f, type: 3}
+  - {fileID: 21300000, guid: 25eb6cfa76a696547a2107866cdd1df4, type: 3}
+  - {fileID: 21300000, guid: af23ea749f8769046b4ee439d19650d3, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  sortingOrder: 000000000500000004000000050000000400000000000000000000000200000000000000010000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  pos:
+  - {x: 1.84, y: 4.6800003}
+  - {x: -0.09, y: 0.97}
+  - {x: -0.05, y: 1.28}
+  - {x: -0.05, y: 0.94}
+  - {x: -0.07, y: 1.436}
+  - {x: 0, y: -1.15}
+  - {x: 0, y: -1.327218}
+  - {x: -0.12, y: 0.69}
+  - {x: -4.350027, y: 1.7272685}
+  - {x: 3.82, y: 2.63}
+  - {x: -1.16, y: 4.95}
+  - {x: 3.6, y: 3.9700003}
+  - {x: 3.6, y: 4.9700003}
+  - {x: 0.099999905, y: 5.4700003}
+  - {x: 1.3499999, y: 5.7200003}
+  - {x: -4.4, y: 1.72}
+  - {x: -1.1500001, y: 4.9700003}
+  - {x: 3.85, y: 2.4700003}
+  - {x: -0.1500001, y: -1.2799997}
+  - {x: -0.1, y: 2.4700003}
+  - {x: 0.099999905, y: 0.47000027}
+  rot:
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  scale:
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1.9546, y: 1.9546, z: 1.9546}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1.9546, y: 1.9546, z: 1.9546}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}

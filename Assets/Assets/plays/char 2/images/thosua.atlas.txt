@@ -1,0 +1,90 @@
+
+thosua.png
+size: 360,1045
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 204, 863
+  size: 154, 180
+  orig: 159, 183
+  offset: 0, 3
+  index: -1
+ball
+  rotate: true
+  xy: 267, 141
+  size: 137, 90
+  orig: 137, 97
+  offset: 0, 6
+  index: -1
+bbc-guy-final-cut_68
+  rotate: false
+  xy: 267, 11
+  size: 80, 128
+  orig: 80, 131
+  offset: 0, 2
+  index: -1
+body
+  rotate: false
+  xy: 2, 572
+  size: 200, 471
+  orig: 212, 471
+  offset: 0, 0
+  index: -1
+lbigarm
+  rotate: false
+  xy: 267, 280
+  size: 91, 155
+  orig: 91, 155
+  offset: 0, 0
+  index: -1
+lforearm
+  rotate: false
+  xy: 2, 438
+  size: 78, 132
+  orig: 79, 132
+  offset: 0, 0
+  index: -1
+lham
+  rotate: false
+  xy: 2, 2
+  size: 127, 433
+  orig: 127, 433
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 204, 437
+  size: 148, 179
+  orig: 149, 199
+  offset: 0, 0
+  index: -1
+rbigarm
+  rotate: true
+  xy: 204, 618
+  size: 61, 151
+  orig: 61, 151
+  offset: 0, 0
+  index: -1
+rforearm
+  rotate: false
+  xy: 82, 441
+  size: 49, 129
+  orig: 49, 131
+  offset: 0, 2
+  index: -1
+rham
+  rotate: false
+  xy: 131, 27
+  size: 134, 408
+  orig: 134, 408
+  offset: 0, 0
+  index: -1
+unhappy
+  rotate: false
+  xy: 204, 681
+  size: 154, 180
+  orig: 159, 180
+  offset: 5, 0
+  index: -1

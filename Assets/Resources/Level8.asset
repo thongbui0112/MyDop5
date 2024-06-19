@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f9fad869129114098b707283605eb3, type: 3}
+  m_Name: Level8
+  m_EditorClassIdentifier: 
+  request: 
+  numberOfItem: 16
+  nameItem:
+  - em1_1 1
+  - WinErase
+  - Man1-Em1
+  - ERASE leaves
+  - tree
+  - bird_1
+  - wing2
+  - wing1
+  - cat_15
+  - man_21
+  - eyes man
+  - chicks
+  - NoCheckPoint
+  - NoCheckPoint
+  - CheckPoint
+  - CheckPoint
+  state: 01010001010101010101010101010101
+  eraseable: 00010001000000000000000000000000
+  sprite:
+  - {fileID: 21300000, guid: e9f51523f6a3fba4e911c6b367e2d7ca, type: 3}
+  - {fileID: 21300000, guid: 2c7757215532bb247a7a942efed346dd, type: 3}
+  - {fileID: 21300000, guid: 0671969f368c4744fbe6705c841304e4, type: 3}
+  - {fileID: 21300000, guid: 56f8b967d19213b47860d6615d0342a0, type: 3}
+  - {fileID: 21300000, guid: 5a25e4868269d5840be798866be1eaee, type: 3}
+  - {fileID: 21300000, guid: df0764e1091d98c4c9544eb02ab7b004, type: 3}
+  - {fileID: 21300000, guid: 451b04c328ddcf840b0a5b4362c291b7, type: 3}
+  - {fileID: 21300000, guid: aabedb10ab9c6514da6d283c5017a54b, type: 3}
+  - {fileID: 21300000, guid: 0cd05a49f6c871d48b8bc78af8d24e0b, type: 3}
+  - {fileID: 21300000, guid: a7fd71fc850531747957dc7991dd1258, type: 3}
+  - {fileID: 21300000, guid: 3cc7fd50d29de6c47891e01a6971485d, type: 3}
+  - {fileID: 21300000, guid: f3235d38303f78e468faf5a5c4de50bd, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  sortingOrder: 030000000300000003000000020000000000000000000000ffffffff010000000100000000000000010000000200000000000000000000000000000000000000
+  pos:
+  - {x: -1.3133357, y: -3.48}
+  - {x: -1.37, y: -1.53}
+  - {x: -1.2999783, y: -3.5271602}
+  - {x: -3.19, y: 1.9900001}
+  - {x: -1.4347826, y: 1.7992755}
+  - {x: 3.36, y: 3.85}
+  - {x: 3.1046376, y: 5.374493}
+  - {x: 4.0846376, y: 4.724493}
+  - {x: -3.246377, y: 2.38}
+  - {x: -1.8977597, y: -3.550228}
+  - {x: -1.3100001, y: -3.2329998}
+  - {x: -1.29, y: -1.84}
+  - {x: -2.57, y: 2.6399999}
+  - {x: -4.35, y: 1.89}
+  - {x: -2.48, y: -2.3400002}
+  - {x: -0.97, y: -2.28}
+  rot:
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: 0.050443504, w: 0.99872696}
+  - {x: -0, y: -0, z: 0.14037189, w: 0.9900989}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: 0.20706002, w: 0.9783283}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  scale:
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1.4331, y: 1.4331, z: 1.4331}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 2.1811483, y: 2.1811483, z: 2.1811483}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}

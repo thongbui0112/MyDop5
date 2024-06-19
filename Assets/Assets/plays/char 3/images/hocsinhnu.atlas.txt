@@ -1,0 +1,104 @@
+
+hocsinhnu.png
+size: 528,596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mrs_bao
+  rotate: true
+  xy: 2, 189
+  size: 170, 259
+  orig: 170, 262
+  offset: 0, 3
+  index: -1
+Mrs_body
+  rotate: false
+  xy: 345, 324
+  size: 181, 270
+  orig: 181, 270
+  offset: 0, 0
+  index: -1
+Mrs_hand_normal
+  rotate: true
+  xy: 263, 312
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: -1
+Mrs_head_angry
+  rotate: false
+  xy: 2, 27
+  size: 162, 160
+  orig: 162, 160
+  offset: 0, 0
+  index: -1
+Mrs_head_normal
+  rotate: false
+  xy: 343, 163
+  size: 163, 159
+  orig: 164, 159
+  offset: 1, 0
+  index: -1
+Mrs_head_unhappy
+  rotate: false
+  xy: 319, 2
+  size: 162, 159
+  orig: 162, 159
+  offset: 0, 0
+  index: -1
+Mrs_larm
+  rotate: true
+  xy: 166, 4
+  size: 58, 119
+  orig: 61, 119
+  offset: 1, 0
+  index: -1
+Mrs_rarm
+  rotate: false
+  xy: 256, 64
+  size: 61, 105
+  orig: 64, 108
+  offset: 2, 3
+  index: -1
+Mrs_rwrist_happy
+  rotate: false
+  xy: 166, 64
+  size: 88, 123
+  orig: 91, 123
+  offset: 3, 0
+  index: -1
+Untitled-1_36
+  rotate: true
+  xy: 263, 259
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1
+angry_gas
+  rotate: false
+  xy: 483, 106
+  size: 32, 55
+  orig: 55, 55
+  offset: 5, 0
+  index: -1
+student-girl-final-cut_91
+  rotate: true
+  xy: 263, 171
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+student-girl_50
+  rotate: true
+  xy: 2, 478
+  size: 116, 341
+  orig: 117, 342
+  offset: 0, 0
+  index: -1
+student-girl_52
+  rotate: true
+  xy: 2, 361
+  size: 115, 313
+  orig: 115, 315
+  offset: 0, 0
+  index: -1

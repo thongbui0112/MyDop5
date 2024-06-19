@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f9fad869129114098b707283605eb3, type: 3}
+  m_Name: Level6
+  m_EditorClassIdentifier: 
+  request: Why won't the egg crack?
+  numberOfItem: 17
+  nameItem:
+  - WinErase
+  - ERASE part hen
+  - chick1
+  - chick2
+  - chick3
+  - hen
+  - em1 hen
+  - computer
+  - back_197
+  - egg_0
+  - eyes chick1
+  - eyes chick2
+  - eyes1-chicken
+  - eyes1-chicken
+  - CheckPoint
+  - CheckPoint
+  - NoCheckPoint
+  state: 0101010101010101010101010101010101
+  eraseable: 0101000000000000000000000000000000
+  sprite:
+  - {fileID: 21300000, guid: bd291cc3f7b6982498f0948a5dbd34de, type: 3}
+  - {fileID: 21300000, guid: 6a8fc80aaacf3bc4bbf3e6547659e4f8, type: 3}
+  - {fileID: 21300000, guid: 77b997ccb42d01d4eaf31fc78991469d, type: 3}
+  - {fileID: 21300000, guid: cb509843724e60b4988d9c2cd3522c89, type: 3}
+  - {fileID: 21300000, guid: 67c3ab8e2a7a3fd46a83322dcf3541f1, type: 3}
+  - {fileID: 21300000, guid: ef5bafa98f45cd048a0932ef488a307b, type: 3}
+  - {fileID: 21300000, guid: 94be81f27fdcd564280d4d9b5352ebf9, type: 3}
+  - {fileID: 21300000, guid: 0f213401a344a3641854a4d561d0874d, type: 3}
+  - {fileID: 21300000, guid: f624ba655aa2bbd43a28861220b7b3aa, type: 3}
+  - {fileID: 21300000, guid: fafb41ffdb8544a4495d6a921659928f, type: 3}
+  - {fileID: 21300000, guid: 3ea3c0f7fc2941e458b4053282b379af, type: 3}
+  - {fileID: 21300000, guid: bb3dbd4b2cedbcf448eabf2dae8c5947, type: 3}
+  - {fileID: 21300000, guid: 73d02c85dbaf1b94d9631fe968778d1e, type: 3}
+  - {fileID: 21300000, guid: 73d02c85dbaf1b94d9631fe968778d1e, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  sortingOrder: 0400000002000000040000000500000002000000010000000200000001000000000000000300000005000000060000000300000003000000000000000000000000000000
+  pos:
+  - {x: 0.94, y: -0.3}
+  - {x: -3.33, y: 2.96}
+  - {x: -1.67, y: -3.49}
+  - {x: 3.19, y: -3.49}
+  - {x: 0.44, y: -0.81}
+  - {x: -1.89, y: 1.36}
+  - {x: -0.168, y: 3.739}
+  - {x: 1.03, y: -1.05}
+  - {x: 0, y: 0}
+  - {x: 0.94, y: -2.77}
+  - {x: -2.93, y: -2.39}
+  - {x: 3.5299997, y: -2.47}
+  - {x: -0.145, y: 3.304}
+  - {x: 0.95, y: -0.3}
+  - {x: -0.13, y: -0.21}
+  - {x: 1.91, y: -0.46}
+  - {x: -2.8400002, y: 3.04}
+  rot:
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  scale:
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 2.2463, y: 2.2463, z: 2.2463}
+  - {x: 1.3536, y: 1.3536, z: 1.3536}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}

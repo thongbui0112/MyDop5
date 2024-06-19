@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f9fad869129114098b707283605eb3, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: 
+  request: Who is he spying on?
+  numberOfItem: 16
+  nameItem:
+  - Boy-Em1_4
+  - Boy-Eyes_6
+  - WinErase
+  - Boy-Em2_1
+  - Boy-Eyes_6 (1)
+  - Back_96
+  - Boy_10
+  - POLICEMAN_2
+  - POLICEMAN-HAND-LEFT-1
+  - POLICEMAN-EYES_0
+  - POLICEMAN-em-1
+  - ERASE-Sign
+  - CheckPoint
+  - CheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  state: 01010100000101010101010101010101
+  eraseable: 00000100000000000000000100000000
+  sprite:
+  - {fileID: 21300000, guid: 53a3c15cd14a1334daa79dc9d17eec7b, type: 3}
+  - {fileID: 21300000, guid: bd29d694fd0b32d40afce50dd9eaaeac, type: 3}
+  - {fileID: 21300000, guid: c529aeb02c50e1b40992001fb3e5a492, type: 3}
+  - {fileID: 21300000, guid: 7a60b5c4a679ce143843f598319e8f95, type: 3}
+  - {fileID: 21300000, guid: bd29d694fd0b32d40afce50dd9eaaeac, type: 3}
+  - {fileID: 21300000, guid: 08c294689b849704d99306e35d9875dc, type: 3}
+  - {fileID: 21300000, guid: f9d50457c81f5764090871dc87ec3b85, type: 3}
+  - {fileID: 21300000, guid: 8a9b605ef26b2834783bc21924d51dc4, type: 3}
+  - {fileID: 21300000, guid: d5b178302d4a51d4fa6d45e16f92a455, type: 3}
+  - {fileID: 21300000, guid: e4b890cbea5d91d4a8692f901180105c, type: 3}
+  - {fileID: 21300000, guid: cd7d227b467ad8644819ed8c73a4c676, type: 3}
+  - {fileID: 21300000, guid: 3462d5dc43ebfb84e8be7a86f84aa2ad, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  sortingOrder: 02000000020000000300000002000000020000000000000001000000010000000100000002000000020000000200000000000000000000000000000000000000
+  pos:
+  - {x: -0.35, y: -0.46}
+  - {x: -0.31600016, y: -0.45700002}
+  - {x: 2.3174229, y: 1.3}
+  - {x: -0.35, y: -0.49}
+  - {x: -0.28, y: -0.4}
+  - {x: 0, y: 0}
+  - {x: -0.8470002, y: -1.441}
+  - {x: 2.527423, y: 0.64}
+  - {x: 1.5344229, y: 0.51}
+  - {x: 2.047423, y: 2.42}
+  - {x: 2.1274228, y: 2.38}
+  - {x: 3.2, y: -4.602435}
+  - {x: 2.34, y: -1.04}
+  - {x: 2.46, y: 1.56}
+  - {x: 2.915, y: -4.404}
+  - {x: 2.915, y: -5.18}
+  rot:
+  - {x: -0, y: -0, z: -0.02875595, w: 0.99958646}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0.02260192, w: 0.99974453}
+  - {x: -0, y: -0, z: -0.0717717, w: 0.9974211}
+  - {x: -0, y: -0, z: -0.04549713, w: 0.9989645}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  scale:
+  - {x: 1, y: 0.90277, z: 0.90277}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 0.7, y: 0.7, z: 0.7}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}

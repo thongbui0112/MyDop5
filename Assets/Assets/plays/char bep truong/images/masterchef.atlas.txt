@@ -1,0 +1,83 @@
+
+masterchef.png
+size: 1470,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+master-chef-final-01_03
+  rotate: true
+  xy: 1411, 47
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+master-chef-final-01_08
+  rotate: true
+  xy: 743, 2
+  size: 73, 123
+  orig: 73, 123
+  offset: 0, 0
+  index: -1
+master-chef-final-01_12
+  rotate: true
+  xy: 373, 2
+  size: 233, 368
+  orig: 238, 373
+  offset: 0, 5
+  index: -1
+master-chef-final-01_19
+  rotate: false
+  xy: 994, 5
+  size: 102, 70
+  orig: 102, 70
+  offset: 0, 0
+  index: -1
+master-chef-final-01_31
+  rotate: true
+  xy: 2, 2
+  size: 233, 369
+  orig: 236, 369
+  offset: 0, 0
+  index: -1
+master-chef-final-01_34
+  rotate: true
+  xy: 868, 6
+  size: 69, 124
+  orig: 69, 126
+  offset: 0, 2
+  index: -1
+master-chef-final-01_37
+  rotate: true
+  xy: 743, 77
+  size: 158, 323
+  orig: 166, 349
+  offset: 0, 5
+  index: -1
+master-chef-final-01_47
+  rotate: true
+  xy: 1388, 169
+  size: 66, 80
+  orig: 67, 80
+  offset: 1, 0
+  index: -1
+master-chef-final-01_58
+  rotate: false
+  xy: 1388, 122
+  size: 58, 45
+  orig: 59, 45
+  offset: 1, 0
+  index: -1
+master-chef-final-01_70
+  rotate: true
+  xy: 1068, 116
+  size: 119, 318
+  orig: 119, 322
+  offset: 0, 0
+  index: -1
+master-chef-final-01_72
+  rotate: true
+  xy: 1098, 16
+  size: 98, 311
+  orig: 98, 312
+  offset: 0, 0
+  index: -1

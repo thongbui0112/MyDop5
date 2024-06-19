@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f9fad869129114098b707283605eb3, type: 3}
+  m_Name: Level17
+  m_EditorClassIdentifier: 
+  request: Find the thief
+  numberOfItem: 32
+  nameItem:
+  - Em1-Policeman_1
+  - Em1-Criminal_0
+  - WinErase
+  - Em2-Policeman
+  - Em2-Criminal_1
+  - ERASE-Window
+  - ERASE-Window-2
+  - ERASE-Door-Cat
+  - Bus
+  - Criminal
+  - Policeman_5
+  - Eyes-Policeman_0
+  - Sleeping-Man
+  - Bus-Background
+  - Eyes-Criminal_0
+  - car shadow
+  - Avacado-Shadow
+  - boy 1
+  - whites_boy_0
+  - Fox-Boy-Eye
+  - em2-boy-left
+  - Cat-Bag
+  - Cat_2
+  - eyes cat_1
+  - CheckPoint
+  - CheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  state: 0101010000010101010101010101010101010101010101010101010101010101
+  eraseable: 0000010000010101000000000000000000000000000000000000000000000000
+  sprite:
+  - {fileID: 21300000, guid: 9c7c69dab32ef8248b303272a4a2a5be, type: 3}
+  - {fileID: 21300000, guid: b0ad59460eb54ee4297ad9dd41d58a28, type: 3}
+  - {fileID: 21300000, guid: f883d924b8ff88b4a9df74cde3ca1984, type: 3}
+  - {fileID: 21300000, guid: f2074c9f164fba54b9a22df0bda3a803, type: 3}
+  - {fileID: 21300000, guid: 3bb91f046870fa043a82b26069e02aae, type: 3}
+  - {fileID: 21300000, guid: 56f59e9e32e7ec444ad659ecd0c025c0, type: 3}
+  - {fileID: 21300000, guid: e63c5d4983664cf49a52b0611f7b091f, type: 3}
+  - {fileID: 21300000, guid: 7358e1861cada594abcaa11a3e57db79, type: 3}
+  - {fileID: 21300000, guid: ae761b7e89d02194f86e6733080b3e63, type: 3}
+  - {fileID: 21300000, guid: 0a6f58f25867a7941a2c27c53d43e359, type: 3}
+  - {fileID: 21300000, guid: ead55399619477b458783229a0e0873c, type: 3}
+  - {fileID: 21300000, guid: af5d12f756740444b83ecd2a183d418b, type: 3}
+  - {fileID: 21300000, guid: ac8cbf5df22680a49bd841fafea1a7bc, type: 3}
+  - {fileID: 21300000, guid: 30e3ff541fed93a4dabf18b485f9e9e7, type: 3}
+  - {fileID: 21300000, guid: e086a3bf8a7824f44ba017c0b4bfecea, type: 3}
+  - {fileID: 21300000, guid: 5fd89f0a764aa724ba4be62e966d4fc5, type: 3}
+  - {fileID: 21300000, guid: 2f97a807efd6a2343ba5f70f01e3dff0, type: 3}
+  - {fileID: 21300000, guid: eaccd699e8da77a4e859b8fea5ba8d1b, type: 3}
+  - {fileID: 21300000, guid: ed87cb5fae4542e4f83385c795d25e34, type: 3}
+  - {fileID: 21300000, guid: 8b7b8d4789abe8a4b84b02d9497a20d6, type: 3}
+  - {fileID: 21300000, guid: 7114a734f75a9eb48809851feb32bb7f, type: 3}
+  - {fileID: 21300000, guid: 1b33f39e3b490334cb4ec9eaf69ee98e, type: 3}
+  - {fileID: 21300000, guid: 2e470abeafd6d714284974b8dcb9e3ab, type: 3}
+  - {fileID: 21300000, guid: 1aa963dca6b008d4485d297809507462, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  sortingOrder: 0a00000004000000060000000a000000040000000500000005000000080000000500000001000000090000000a0000000000000000000000040000000000000000000000000000000200000003000000030000000700000006000000070000000000000000000000000000000000000000000000000000000000000000000000
+  pos:
+  - {x: 0.706, y: 0.025}
+  - {x: -2.2, y: -1.81}
+  - {x: -2.48, y: -2.36}
+  - {x: 0.65, y: -0.044}
+  - {x: -2.142, y: -1.797}
+  - {x: 2.1273568, y: 2.533311}
+  - {x: -1.8123534, y: 2.5675693}
+  - {x: 2.57, y: -0.38}
+  - {x: 0.3030303, y: 0.77020204}
+  - {x: -2.0959597, y: -1.8181819}
+  - {x: 0.3835459, y: -1.7550106}
+  - {x: 0.674, y: 0.086}
+  - {x: 2.5126264, y: 2.3484848}
+  - {x: -0.012626263, y: 0.58080804}
+  - {x: -2.18, y: -1.7}
+  - {x: 0.58, y: -3.51}
+  - {x: 0.46000004, y: -4.7400002}
+  - {x: -1.735461, y: 2.128389}
+  - {x: -1.15, y: 2.7402627}
+  - {x: -1.154, y: 2.727}
+  - {x: -1.193, y: 2.586}
+  - {x: 2.615, y: -0.399}
+  - {x: 2.604, y: -0.549}
+  - {x: 2.622, y: -0.567}
+  - {x: -2.97, y: -2.14}
+  - {x: -2, y: -2.25}
+  - {x: 3, y: -0.25}
+  - {x: -2.5, y: 2.5}
+  - {x: -1.25, y: 2.5}
+  - {x: 1, y: 2.5}
+  - {x: 3, y: 2.5}
+  - {x: 1.75, y: -0.25}
+  rot:
+  - {x: -0.013249767, y: 0.99991226, z: -0, w: 0}
+  - {x: -0.0023670695, y: -0, z: -0, w: 0.99999726}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: 1, z: -0, w: 0}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0.013249767, y: 0.99991226, z: -0, w: 0}
+  - {x: 0.07542461, y: 0.99715155, z: -0, w: 0}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0.038122226, w: 0.9992731}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  scale:
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1.7513001, y: 1.7513001, z: 1.7513}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1.4095, y: 1.0241, z: 1}
+  - {x: 0.50503, y: 0.50503, z: 0.50503}
+  - {x: 1, y: 1, z: 1}
+  - {x: 0.48735, y: 0.48735, z: 0.48735}
+  - {x: 0.4078, y: 0.4078, z: 0.4078}
+  - {x: 0.60225, y: 0.60225, z: 0.60225}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 0.6408443, y: 0.6408443, z: 0.6408443}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}

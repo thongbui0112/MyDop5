@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f9fad869129114098b707283605eb3, type: 3}
+  m_Name: Level23
+  m_EditorClassIdentifier: 
+  request: 
+  numberOfItem: 21
+  nameItem:
+  - GIR-EM-1
+  - WinErase
+  - Girl-Em1_1
+  - GIRL-EYES_0
+  - GIRL_29
+  - erase-hair_2
+  - erase-microphone
+  - erase-mask
+  - BACK-1_1
+  - HAND_32
+  - Girl-Back-Hand-on-HandRail
+  - CheckPoint
+  - CheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  state: 010100010101010101010101010101010101010101
+  eraseable: 000100000001010100000000000000000000000000
+  sprite:
+  - {fileID: 21300000, guid: 9a3942c028f8f564589826962a0899c5, type: 3}
+  - {fileID: 21300000, guid: 2331a83efec69ef4981b3598cdbe05f0, type: 3}
+  - {fileID: 21300000, guid: 7a4bd5b07bb43a042879a99c4a49c179, type: 3}
+  - {fileID: 21300000, guid: 51f8071a7afb66e45b6c41bb602baf7d, type: 3}
+  - {fileID: 21300000, guid: b053cb9775e09314b8330a13e2b3fd04, type: 3}
+  - {fileID: 21300000, guid: 1420ec4b8ff196b4a8de68275187c8eb, type: 3}
+  - {fileID: 21300000, guid: 5b2fae01d53c7c346b25a125c6911701, type: 3}
+  - {fileID: 21300000, guid: 94af8a46c59366045bda03f0c6734475, type: 3}
+  - {fileID: 21300000, guid: 0566c95434668ab4d85db51abd21e6bb, type: 3}
+  - {fileID: 21300000, guid: 69eb4cb697061a14185bd0d287599d08, type: 3}
+  - {fileID: 21300000, guid: 5187913e395e8224ca7b412a1f1c1f1d, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  sortingOrder: 08000000010000000e000000190000000100000003000000030000000200000000000000030000000e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  pos:
+  - {x: 1.3, y: 1.2}
+  - {x: -2.33, y: -0.24}
+  - {x: 1.3, y: 1.22}
+  - {x: 1.06, y: 1.4}
+  - {x: 1.59, y: -0.82}
+  - {x: 2.03, y: 2.76}
+  - {x: -3.48, y: -2.82}
+  - {x: 1.27, y: 1.33}
+  - {x: 0, y: 0}
+  - {x: -1.95, y: -4.24}
+  - {x: -2.82, y: -2.77}
+  - {x: -2.44, y: -0.08}
+  - {x: -1.69, y: 0.17}
+  - {x: 3.56, y: 2.42}
+  - {x: 1.06, y: 2.42}
+  - {x: 0.30999994, y: 0.67}
+  - {x: 2.06, y: 0.67}
+  - {x: 0.55999994, y: 3.42}
+  - {x: 1.81, y: 4.17}
+  - {x: 3.56, y: 4.17}
+  - {x: -3.94, y: -1.0799999}
+  rot:
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: 0.0056959405, w: 0.9999838}
+  - {x: -0, y: -0, z: 0.095284045, w: 0.99545014}
+  - {x: 0.009366658, y: -0, z: -0, w: 0.99995613}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0.18982787, y: 0.9818174, z: -0, w: 0}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  scale:
+  - {x: 2.8208, y: 2.8208, z: 2.8208}
+  - {x: 1, y: 1, z: 1}
+  - {x: 2.3789003, y: 2.3789003, z: 2.3789}
+  - {x: 1.81342, y: 1.81342, z: 1.81342}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1.8455192, y: 1.8455193, z: 1.8455194}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}

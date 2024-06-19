@@ -1,0 +1,90 @@
+
+sinhviennu.png
+size: 261,871
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 2, 759
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 138, 43
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+bbc-guy-final-cut_68
+  rotate: true
+  xy: 223, 110
+  size: 49, 28
+  orig: 54, 28
+  offset: 1, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 382
+  size: 144, 263
+  orig: 146, 264
+  offset: 0, 1
+  index: -1
+lbigarm
+  rotate: true
+  xy: 149, 600
+  size: 69, 108
+  orig: 75, 118
+  offset: 0, 6
+  index: -1
+lforearm
+  rotate: true
+  xy: 148, 535
+  size: 63, 104
+  orig: 63, 110
+  offset: 0, 1
+  index: -1
+lham
+  rotate: false
+  xy: 2, 2
+  size: 134, 378
+  orig: 134, 378
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 149, 724
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+rbigarm
+  rotate: true
+  xy: 149, 671
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+rforearm
+  rotate: false
+  xy: 138, 96
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+rham
+  rotate: false
+  xy: 148, 161
+  size: 96, 372
+  orig: 98, 374
+  offset: 2, 0
+  index: -1
+unhappy
+  rotate: true
+  xy: 2, 647
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1

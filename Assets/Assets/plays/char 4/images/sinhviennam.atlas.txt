@@ -1,0 +1,104 @@
+
+sinhviennam.png
+size: 316,1034
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Untitled-1_45
+  rotate: true
+  xy: 182, 71
+  size: 100, 103
+  orig: 101, 103
+  offset: 0, 0
+  index: -1
+angry
+  rotate: true
+  xy: 2, 492
+  size: 171, 178
+  orig: 171, 184
+  offset: 0, 6
+  index: -1
+ball
+  rotate: false
+  xy: 72, 2
+  size: 60, 67
+  orig: 68, 67
+  offset: 1, 0
+  index: -1
+bbc-guy-fina
+  rotate: true
+  xy: 134, 89
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+bbc-guy-final-cut_68
+  rotate: false
+  xy: 72, 80
+  size: 36, 64
+  orig: 40, 68
+  offset: 3, 2
+  index: -1
+body
+  rotate: false
+  xy: 2, 665
+  size: 194, 367
+  orig: 194, 368
+  offset: 0, 1
+  index: -1
+lbigarm
+  rotate: false
+  xy: 2, 7
+  size: 68, 137
+  orig: 69, 138
+  offset: 0, 0
+  index: -1
+lforearm
+  rotate: true
+  xy: 134, 18
+  size: 51, 95
+  orig: 52, 97
+  offset: 0, 1
+  index: -1
+lham
+  rotate: false
+  xy: 182, 173
+  size: 123, 393
+  orig: 128, 393
+  offset: 5, 0
+  index: -1
+normal
+  rotate: true
+  xy: 2, 319
+  size: 171, 178
+  orig: 178, 184
+  offset: 0, 6
+  index: -1
+rbigarm
+  rotate: true
+  xy: 198, 957
+  size: 75, 116
+  orig: 83, 117
+  offset: 0, 1
+  index: -1
+rforearm
+  rotate: false
+  xy: 198, 918
+  size: 108, 37
+  orig: 108, 37
+  offset: 0, 0
+  index: -1
+rham
+  rotate: false
+  xy: 198, 568
+  size: 104, 348
+  orig: 104, 354
+  offset: 0, 0
+  index: -1
+unhappy
+  rotate: true
+  xy: 2, 146
+  size: 171, 178
+  orig: 171, 184
+  offset: 0, 6
+  index: -1

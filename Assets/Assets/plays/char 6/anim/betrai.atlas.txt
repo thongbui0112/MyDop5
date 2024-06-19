@@ -1,0 +1,90 @@
+
+betrai.png
+size: 442,569
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 275, 404
+  size: 159, 163
+  orig: 159, 166
+  offset: 0, 3
+  index: -1
+ball
+  rotate: false
+  xy: 337, 50
+  size: 76, 82
+  orig: 76, 94
+  offset: 0, 1
+  index: -1
+bbc-guy-final-cut_68
+  rotate: false
+  xy: 114, 286
+  size: 99, 115
+  orig: 100, 115
+  offset: 1, 0
+  index: -1
+body
+  rotate: false
+  xy: 103, 9
+  size: 165, 262
+  orig: 165, 262
+  offset: 0, 0
+  index: -1
+lbigarm
+  rotate: false
+  xy: 270, 2
+  size: 65, 130
+  orig: 65, 132
+  offset: 0, 2
+  index: -1
+lforearm
+  rotate: false
+  xy: 215, 299
+  size: 64, 102
+  orig: 65, 102
+  offset: 0, 0
+  index: -1
+lham
+  rotate: false
+  xy: 2, 273
+  size: 110, 294
+  orig: 110, 294
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 114, 403
+  size: 159, 164
+  orig: 173, 172
+  offset: 0, 0
+  index: -1
+rbigarm
+  rotate: true
+  xy: 281, 316
+  size: 86, 80
+  orig: 87, 80
+  offset: 1, 0
+  index: -1
+rforearm
+  rotate: true
+  xy: 363, 317
+  size: 85, 77
+  orig: 99, 77
+  offset: 1, 0
+  index: -1
+rham
+  rotate: false
+  xy: 2, 4
+  size: 99, 267
+  orig: 99, 267
+  offset: 0, 0
+  index: -1
+unhappy
+  rotate: false
+  xy: 270, 134
+  size: 159, 163
+  orig: 172, 170
+  offset: 0, 0
+  index: -1

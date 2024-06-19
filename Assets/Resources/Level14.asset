@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f9fad869129114098b707283605eb3, type: 3}
+  m_Name: Level14
+  m_EditorClassIdentifier: 
+  request: Open the gift
+  numberOfItem: 18
+  nameItem:
+  - EM_2_girl
+  - GIRL-hands-2-front
+  - WinErase
+  - em girl
+  - BOY-hands-win
+  - girl_31
+  - Eyes-Girl_1
+  - Mum-Shadow
+  - Mum-Shadow (1)
+  - TORTILE
+  - EM-TORTILE
+  - Tortile-EYES
+  - CheckPoint
+  - CheckPoint
+  - CheckPoint
+  - CheckPoint
+  - CheckPoint
+  - CheckPoint
+  state: 010101000001010101010101010101010101
+  eraseable: 000001000000000000000000000000000000
+  sprite:
+  - {fileID: 21300000, guid: 2d642031ebb1b5e45b223af01627fde7, type: 3}
+  - {fileID: 21300000, guid: 1fe63a081c0a9e24a81605597a52811e, type: 3}
+  - {fileID: 21300000, guid: 2c4cfbc368dbf87458622134cc9ed566, type: 3}
+  - {fileID: 21300000, guid: 573e7bd37070da644adff11d86efc355, type: 3}
+  - {fileID: 21300000, guid: bef8a18c97fe2ab409eb40cb968c22ae, type: 3}
+  - {fileID: 21300000, guid: e8bad48f8a424f441b61840090fb88e7, type: 3}
+  - {fileID: 21300000, guid: 925543544ba8cfd47aeb13b322f6f414, type: 3}
+  - {fileID: 21300000, guid: 44c4eb604da2f4b42a9bbacabbb3a89f, type: 3}
+  - {fileID: 21300000, guid: 44c4eb604da2f4b42a9bbacabbb3a89f, type: 3}
+  - {fileID: 21300000, guid: 463cfa3b13727ae4483df6743cab13b9, type: 3}
+  - {fileID: 21300000, guid: a0ee15db18ff8cb45a2bc1b965b645aa, type: 3}
+  - {fileID: 21300000, guid: 119f9f910cc05a742a62361057f5b6f0, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  sortingOrder: 030000000100000014000000050000000800000000000000160000000000000000000000010000000200000002000000000000000000000000000000000000000000000000000000
+  pos:
+  - {x: 3.8111045, y: 3.830208}
+  - {x: 4.05, y: 2.14}
+  - {x: -1.26, y: 0.52}
+  - {x: 3.74, y: 3.77}
+  - {x: 3.84, y: 2.37}
+  - {x: 4.1411047, y: 1.2822082}
+  - {x: 3.6711047, y: 3.830208}
+  - {x: -1.39, y: -2.2}
+  - {x: 3.99, y: -2.5}
+  - {x: -1.24, y: -0.01}
+  - {x: 2.12, y: -0.4}
+  - {x: 2.37, y: -0.6}
+  - {x: -0.5, y: 1}
+  - {x: 1.34, y: -0.85}
+  - {x: -1.25, y: -1}
+  - {x: -4, y: -1}
+  - {x: -3, y: 1}
+  - {x: -0.5, y: 1}
+  rot:
+  - {x: -0.09469899, y: 0.995506, z: -0, w: 0}
+  - {x: -0.030037355, y: 0.9995488, z: -0, w: 0}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0.037696443, w: 0.9992893}
+  - {x: -0, y: -0, z: 0.0030676909, w: 0.99999535}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  scale:
+  - {x: 1.1365074, y: 1.1365074, z: 1.1365073}
+  - {x: 1.5375609, y: 1.5375609, z: 1.5375609}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1.4613718, y: 1.4613718, z: 1.4613719}
+  - {x: 1.1354116, y: 1.1354116, z: 1.1354116}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1.8927, y: 1.8927, z: 1.8927}
+  - {x: 2.8738, y: 2.8738, z: 2.8738}
+  - {x: 1.1973401, y: 1.1973401, z: 1.1973401}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}

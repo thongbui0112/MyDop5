@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f9fad869129114098b707283605eb3, type: 3}
+  m_Name: Level29
+  m_EditorClassIdentifier: 
+  request: 
+  numberOfItem: 23
+  nameItem:
+  - em1_blue_fish
+  - em1_gold_fish
+  - WinErase
+  - em2_gold_fish
+  - fin_front_blue_fish
+  - fin_back_blue_fish
+  - em2_blue_fish
+  - heart_1
+  - body_blue_fish
+  - tail_blue_fish
+  - whites_blue_fish
+  - eyes_blue_fish
+  - body_gold_fish
+  - whites_gold_fish
+  - tail_gold_fish
+  - eyes_gold_fish
+  - fin_gold_fish
+  - CheckPoint
+  - CheckPoint
+  - CheckPoint
+  - CheckPoint
+  - CheckPoint
+  - CheckPoint
+  state: 0101010000000000010101010101010101010101010101
+  eraseable: 0000010000000000000000000000000000010101010101
+  sprite:
+  - {fileID: 21300000, guid: 19cc7722ac681fd4f923948b87d0bee8, type: 3}
+  - {fileID: 21300000, guid: 1d61cdd540501d04f9e2965e94803734, type: 3}
+  - {fileID: 21300000, guid: e1fd1cfd4db39d24a9ccf1c94ca71874, type: 3}
+  - {fileID: 21300000, guid: 8afaead0accb3f84ea851cdeb5326dba, type: 3}
+  - {fileID: 21300000, guid: 9ed4234fc5567c646aa79a237290ace0, type: 3}
+  - {fileID: 21300000, guid: 1ee5d7feb34a07742971ce98d31bc4c7, type: 3}
+  - {fileID: 21300000, guid: cd3a926b1a1a96a4cb1945e537a5c80a, type: 3}
+  - {fileID: 21300000, guid: 197dbb4d488c531409c7efc4e84f8d92, type: 3}
+  - {fileID: 21300000, guid: 5e215ad89a12d3f4998307648bf336cb, type: 3}
+  - {fileID: 21300000, guid: ed6dcf25d1341d5488ad5066453ee53d, type: 3}
+  - {fileID: 21300000, guid: fd85dc600b2ce8e4c9dd0b0508cb574e, type: 3}
+  - {fileID: 21300000, guid: 012d2f15558ea4540bb2be1ad7d20878, type: 3}
+  - {fileID: 21300000, guid: 49552dd65dff6df418b26745f58873e3, type: 3}
+  - {fileID: 21300000, guid: 0cb962b78ed815047bcb1881f5e53cae, type: 3}
+  - {fileID: 21300000, guid: 8ad760cfe73482b45b793e73858a4392, type: 3}
+  - {fileID: 21300000, guid: f55a1febbe54b52479ce1d72528a06da, type: 3}
+  - {fileID: 21300000, guid: a1c919d40f6be9d44902b08398fd6a4e, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  sortingOrder: 0300000003000000050000000600000007000000000000000500000000000000010000000000000002000000030000000100000002000000000000000600000004000000000000000000000000000000000000000000000000000000
+  pos:
+  - {x: -0.48809907, y: 1.8237591}
+  - {x: 1.7288251, y: -2.233434}
+  - {x: -1.56, y: 1.51}
+  - {x: 1.81, y: -2.21}
+  - {x: -2.194434, y: 0.59}
+  - {x: 0.76, y: 0.86}
+  - {x: -0.52, y: 1.92}
+  - {x: 3.0477128, y: 1.0476158}
+  - {x: -1.6483006, y: 2.000759}
+  - {x: -4.42, y: 1.21}
+  - {x: -0.5950388, y: 1.8764129}
+  - {x: -0.41, y: 1.82}
+  - {x: 2.744491, y: -3.3025565}
+  - {x: 1.9426494, y: -2.3670743}
+  - {x: 4.5, y: -5.53}
+  - {x: 1.84, y: -2.07}
+  - {x: 2.24, y: -5.07}
+  - {x: -3.5, y: 0.5}
+  - {x: -3.2, y: 2.39}
+  - {x: -1.25, y: 3}
+  - {x: 0.25, y: 1.75}
+  - {x: -0.25, y: 0.25}
+  - {x: -2.25, y: -0.25}
+  rot:
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: 0.30441588, w: 0.95253927}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0.48034614, w: 0.877079}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  scale:
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}

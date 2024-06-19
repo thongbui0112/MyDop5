@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f9fad869129114098b707283605eb3, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  request: Help him slide
+  numberOfItem: 16
+  nameItem:
+  - body
+  - em
+  - eyes
+  - backhand
+  - fronthand
+  - legs
+  - WinErase
+  - onionWin
+  - em2Win
+  - eyesWin
+  - backhandWin
+  - fronthandWin
+  - legsWin
+  - slide
+  - CheckPoint
+  - CheckPoint
+  state: 01010101010101000000000000010101
+  eraseable: 00000000000001000000000000000000
+  sprite:
+  - {fileID: 21300000, guid: 49472394399d0af4592b1f1a0c4a2540, type: 3}
+  - {fileID: 21300000, guid: ce0ee1bec909a3f43924c329efcfa11a, type: 3}
+  - {fileID: 21300000, guid: 9b1955ad570df9942921c208440ef6c9, type: 3}
+  - {fileID: 21300000, guid: cb80da48fd5ab11469f4466eaea29608, type: 3}
+  - {fileID: 21300000, guid: 16e57b7fff368fc43a7b3e7201828b91, type: 3}
+  - {fileID: 21300000, guid: d4fcbae5f003d09479852e6b7e32d933, type: 3}
+  - {fileID: 21300000, guid: 360baf62c4273c648afaeb2e1fe53fcb, type: 3}
+  - {fileID: 21300000, guid: 49472394399d0af4592b1f1a0c4a2540, type: 3}
+  - {fileID: 21300000, guid: 025b474f1da746247a4c8f680549a050, type: 3}
+  - {fileID: 21300000, guid: 9b1955ad570df9942921c208440ef6c9, type: 3}
+  - {fileID: 21300000, guid: cb80da48fd5ab11469f4466eaea29608, type: 3}
+  - {fileID: 21300000, guid: 16e57b7fff368fc43a7b3e7201828b91, type: 3}
+  - {fileID: 21300000, guid: 739d760c68cba664485cb6938052d485, type: 3}
+  - {fileID: 21300000, guid: fc9b797497d82a440aea1d0b067690cc, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  sortingOrder: 0000000001000000010000000000000001000000ffffffff00000000000000000100000001000000000000000100000000000000feffffff0000000000000000
+  pos:
+  - {x: -2.9830782, y: 3.6205797}
+  - {x: -2.4072363, y: 3.2393732}
+  - {x: -2.18, y: 3.35}
+  - {x: -0.7269912, y: 2.6623192}
+  - {x: -4.276991, y: 2.5223193}
+  - {x: -2.65, y: 1.25}
+  - {x: 0.25415012, y: -2.0043626}
+  - {x: -3.0240781, y: 3.7055793}
+  - {x: -2.27, y: 3.37}
+  - {x: -2.2401667, y: 3.4624996}
+  - {x: -0.7910001, y: 2.2549996}
+  - {x: -4.341, y: 2.1149998}
+  - {x: -2.5883512, y: 1.1486201}
+  - {x: -0.04530382, y: -2.3718739}
+  - {x: -0.20000005, y: -1.49}
+  - {x: 0.78, y: -2.52}
+  rot:
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: 0.095978335, w: 0.99538344}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  scale:
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}

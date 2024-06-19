@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f9fad869129114098b707283605eb3, type: 3}
+  m_Name: Level3
+  m_EditorClassIdentifier: 
+  request: Find the cat
+  numberOfItem: 26
+  nameItem:
+  - WinErase
+  - Man-Em1_6
+  - Man-Eyes_11
+  - Girl-Eyes_5
+  - Girl-Em1
+  - Man-Em2_3
+  - Girl-Em2_7
+  - Girl-Eyes_5 (1)
+  - Man-Eyes_11 (1)
+  - Man-Body_0
+  - Man-Legs
+  - ERASE-Girl-Turtle
+  - ERASE-Dog
+  - Girl_7
+  - Turtle_1
+  - Turtle-Eye
+  - Girl-Hands_0
+  - Lamp
+  - Cat_5
+  - Cat-Eyes_0
+  - BackNew
+  - Dog-Head_0
+  - Dogs-Eyes
+  - CheckPoint
+  - NoCheckPoint
+  - NoCheckPoint
+  state: 0101010101000000000101010101010101010101010101010101
+  eraseable: 0100000000000000000000010100000000000000000000000000
+  sprite:
+  - {fileID: 21300000, guid: 75e7fb68b1718af4a8c4a033728c08e4, type: 3}
+  - {fileID: 21300000, guid: 61feebff11c94624a99c89665d3bc6f1, type: 3}
+  - {fileID: 21300000, guid: 546ffa347ee534b42bc3564b2fe2941a, type: 3}
+  - {fileID: 21300000, guid: 8c0ec3ceb9c4f6d4caf7dd0e58963c34, type: 3}
+  - {fileID: 21300000, guid: 46befb042dcfc874d8da14d7b41d5dc9, type: 3}
+  - {fileID: 21300000, guid: 6e33aa51127014948855101e2771054c, type: 3}
+  - {fileID: 21300000, guid: 7b99655c587058f40ab6eccb3e2070e4, type: 3}
+  - {fileID: 21300000, guid: 8c0ec3ceb9c4f6d4caf7dd0e58963c34, type: 3}
+  - {fileID: 21300000, guid: 546ffa347ee534b42bc3564b2fe2941a, type: 3}
+  - {fileID: 21300000, guid: 6aa1e958e19523d42a54bb33890953d2, type: 3}
+  - {fileID: 21300000, guid: cd076911f8ad3754198804982059957e, type: 3}
+  - {fileID: 21300000, guid: fb6db2c513b1c2847a0903682e9cbc95, type: 3}
+  - {fileID: 21300000, guid: 0955fd1a41c7eb048828b23bf3835cfd, type: 3}
+  - {fileID: 21300000, guid: a90e9779adeff864598f97e931139b49, type: 3}
+  - {fileID: 21300000, guid: 10a8bb9350142894fa7003e78ee86884, type: 3}
+  - {fileID: 21300000, guid: cb4cc1f06d4e1c34b9a2265fd017e847, type: 3}
+  - {fileID: 21300000, guid: f9f83f6c37df9804aa8a19735e76c956, type: 3}
+  - {fileID: 21300000, guid: a643d3daa0401504d961cc7f89574a65, type: 3}
+  - {fileID: 21300000, guid: 81a56cb7fadd16840ade2be55bfbe7f7, type: 3}
+  - {fileID: 21300000, guid: ff7d9ad570f1e96409190a2b9dc3ebb3, type: 3}
+  - {fileID: 21300000, guid: fbc843c23a5cfc448a76a5bebecded14, type: 3}
+  - {fileID: 21300000, guid: 85c17a442700e3d41822bf08edd26fae, type: 3}
+  - {fileID: 21300000, guid: 1fc002f0d594e7b41849d3407bd1a2be, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  sortingOrder: 0200000004000000040000000200000002000000040000000200000002000000040000000100000000000000030000000500000000000000010000000200000004000000020000000000000001000000ffffffff0300000004000000000000000000000000000000
+  pos:
+  - {x: -0.27721167, y: 4.6782117}
+  - {x: 2.04, y: 2.0739455}
+  - {x: 2.02, y: 2.11}
+  - {x: -1.98, y: 2.19}
+  - {x: -2.12, y: 2.07}
+  - {x: 2.02, y: 1.99}
+  - {x: -2.09, y: 2.13}
+  - {x: -1.98, y: 2.24}
+  - {x: 2.02, y: 2.185}
+  - {x: 2.7, y: -0.42}
+  - {x: 2.2293787, y: -3.5261006}
+  - {x: -1.71, y: -0.41}
+  - {x: 2.7637568, y: -3.643}
+  - {x: -2.46, y: -0.93}
+  - {x: -1.3628215, y: -0.6864168}
+  - {x: -1.53, y: -0.01}
+  - {x: -2.0228214, y: -0.29641682}
+  - {x: -0.27721167, y: 5.8642907}
+  - {x: -0.4, y: 4.62}
+  - {x: -0.34, y: 5.21}
+  - {x: 0, y: 0}
+  - {x: 2.548, y: -3.488}
+  - {x: 2.4701748, y: -3.460567}
+  - {x: -0.26, y: 4.79}
+  - {x: -1.53, y: -0.61}
+  - {x: 2.66, y: -3.66}
+  rot:
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0.021972248, w: 0.99975866}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0.031075243, w: 0.9995171}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  - {x: -0, y: -0, z: -0, w: 1}
+  scale:
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 0.670414, y: 0.670414, z: 0.6704139}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
+  - {x: 1, y: 1, z: 1}
